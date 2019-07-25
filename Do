@@ -1,0 +1,12 @@
+public class estrutoraDO {
+	
+	public static void mais(String[]args) {
+		int x;
+		x = 0;
+		
+		do {
+			System.out.println(x);
+			x++;
+		}while (x<=10);
+		}
+	}
